@@ -1,0 +1,21 @@
+How To execute the code :
+
+Modules require to be install in your PC:
+1. Nodejs
+2. Mongodb compass
+3. Mongodb shell
+
+step 1 : Download the g_10_ADP_Project_CunsellingBookingSession.zip
+
+step 2 : Extract the " ADP_Project_G10.zip " file . inside it , extract " g_10_ADP_Project_CunsellingBookingSession.zip " file. 
+It will give a folder named " g_10_ADP_Project_CunsellingBookingSession ".
+
+step 3 : Open the folder in your text editor
+
+step 4 : Install the Modules in the folder counselling_project:
+         1)express , 2)express-session , 3)mongodb , 4)mongoose , 5)nodemon , 6)path , 7)hbs , 8)cookie-parser
+
+step 5 : Run the code - " nvm run dev " in your terminal
+
+step 6 : Open browser and browse for - "localhost:3000"
+
